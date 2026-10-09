@@ -1,6 +1,6 @@
 {
- "version": "1.2.1",
- "notas": "La aplicación avisa sola cuando hay una versión nueva: al abrirla y cada hora mientras sigue abierta. Si pulsas «Más tarde», vuelve a avisar al día siguiente.",
+ "version": "1.2.2",
+ "notas": "Ahora la app comprueba si hay novedades cada vez que la abres (antes esperaba unas horas). Esta versión sirve también para probar el aviso automático de actualizaciones.",
  "zip": "mis-gastos-app.zip",
- "sha256": "ca85ca181bab54388b6076b3340c7ece0d23c77a2c958604cd908d09e0235c85"
+ "sha256": "eb71a076c612d8f41ecf8a404ec8ad59d97c5811c118bf33b678f92a3cbae0af"
 }
