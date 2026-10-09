@@ -1,6 +1,6 @@
 {
- "version": "1.2.2",
- "notas": "Ahora la app comprueba si hay novedades cada vez que la abres (antes esperaba unas horas). Esta versión sirve también para probar el aviso automático de actualizaciones.",
- "zip": "mis-gastos-app.zip",
- "sha256": "eb71a076c612d8f41ecf8a404ec8ad59d97c5811c118bf33b678f92a3cbae0af"
+ "version": "1.2.3",
+ "notas": "Corrige un fallo de las actualizaciones: si GitHub tarda en refrescar, la app reintenta sola en lugar de fallar. Incluye lo de la 1.2.2: ahora comprueba si hay novedades cada vez que se abre.",
+ "zip": "mis-gastos-app-1.2.3.zip",
+ "sha256": "2300c89bf03a0e59102c8317bf1f46542ca6cb70889c8837ad8e353f43f524d7"
 }
