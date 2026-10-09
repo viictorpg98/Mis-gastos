@@ -1,0 +1,6 @@
+{
+ "version": "1.1.0",
+ "notas": "Nueva vista «Gasto del mes» con barras y línea juntas, evolución mensual, pagos fijos detectados, presupuestos por categoría, botón para no contar un movimiento en las estadísticas, deshacer y aviso si usas la carpeta en dos ordenadores a la vez.",
+ "zip": "mis-gastos-app.zip",
+ "sha256": "35c9aa63b630085bd09d266545048c6e85ed7a97d55144ec11ed6a3f775887f0"
+}
