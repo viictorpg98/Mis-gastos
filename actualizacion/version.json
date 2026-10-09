@@ -1,6 +1,6 @@
 {
- "version": "1.2.0",
- "notas": "Las categorías ahora comparan con el mes anterior (▲ gastas más, ▼ menos), todas las copias de seguridad están en un solo apartado con restauración en un clic, y la guía incluye lo nuevo: Mi banco, pegar capturas, pagos fijos, presupuestos y no contar movimientos.",
+ "version": "1.2.1",
+ "notas": "La aplicación avisa sola cuando hay una versión nueva: al abrirla y cada hora mientras sigue abierta. Si pulsas «Más tarde», vuelve a avisar al día siguiente.",
  "zip": "mis-gastos-app.zip",
- "sha256": "d3435245f9dd86ae83d5c1f0e5071edba3b0295c04c1e76ccc7e5e754ba90ba5"
+ "sha256": "ca85ca181bab54388b6076b3340c7ece0d23c77a2c958604cd908d09e0235c85"
 }
