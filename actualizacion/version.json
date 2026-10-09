@@ -1,6 +1,6 @@
 {
- "version": "1.2.4",
- "notas": "Actualización de prueba: no cambia nada. Si has visto este aviso al abrir la app sin buscar nada, el aviso automático funciona.",
- "zip": "mis-gastos-app-1.2.4.zip",
- "sha256": "58f3813f7ac29bc47edb539bebb69bfd8f76b379a3abe3b5b413a4cfdc5e502a"
+ "version": "1.2.5",
+ "notas": "Ahora la app avisa de las actualizaciones cada vez que la abres hasta que la instales (solo se calla si pulsas «Más tarde» durante esa sesión), y la consulta a GitHub es más fiable: ya no depende de su caché.",
+ "zip": "mis-gastos-app-1.2.5.zip",
+ "sha256": "c9d7b88505b72bbaa114cbc0eb2281fe9d3c30855b8b5f8a9f8d781ebf2bf7aa"
 }
