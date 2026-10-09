@@ -1,6 +1,6 @@
 {
  "version": "1.1.1",
- "notas": "Prueba del sistema de actualización: si ves este aviso, la actualización a la 1.1.1 se ha descargado bien. Además, ahora la app te avisa cuando acaba de actualizarse.",
+ "notas": "Ahora la aplicación te avisa cuando acaba de actualizarse y te dice de qué versión a cuál. Tus datos no se tocan.",
  "zip": "mis-gastos-app.zip",
  "sha256": "c3cd00a04261d4e6fad626dfb79c0ecf6ac8ebda461c11d29a3f3e5a0003121d"
 }
