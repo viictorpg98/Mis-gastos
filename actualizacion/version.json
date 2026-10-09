@@ -1,6 +1,6 @@
 {
- "version": "1.2.7",
- "notas": "Nuevo icono de la aplicación: un anillo de colores como el de tus categorías. Para que también cambie el del programa en la barra de tareas hace falta el nuevo «Mis gastos.exe», que se entrega aparte.",
- "zip": "mis-gastos-app-1.2.7.zip",
- "sha256": "622f7d0f4b7edc3e72e0fc72e89691c613ccbd60ae83e528bc93a507685ea14b"
+ "version": "1.2.8",
+ "notas": "Nuevo icono: una moneda con un mordisco. Se ve en la ventana y en la pestaña; para el programa en la barra de tareas hace falta el nuevo «Mis gastos.exe», que se entrega aparte.",
+ "zip": "mis-gastos-app-1.2.8.zip",
+ "sha256": "c38349fc538e44e1a156894e13aff00c84e8ae790b28939cf4586369cb26a377"
 }
