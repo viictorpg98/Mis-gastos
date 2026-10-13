@@ -1,6 +1,6 @@
 {
- "version": "1.3.0",
- "notas": "El importador entiende muchos más formatos: una línea por movimiento (fecha, concepto e importe), tablas copiadas de Excel o de un CSV (con o sin cabecera, con Cargo/Abono o Debe/Haber), fechas e importes de todo tipo y archivos CSV que se pueden cargar o arrastrar. Te dice qué formato ha reconocido y qué líneas no ha entendido, y si los importes no llevan signo eliges si son gastos o ingresos.",
- "zip": "mis-gastos-app-1.3.0.zip",
- "sha256": "a49f04148762e993dd847135eacdb8edf09cb234cab3d2fda543c057c14821ec"
+ "version": "1.3.1",
+ "notas": "Importar movimientos más sencillo: eliges si lo que pegas son gastos, ingresos o automático (para listas de gastos e ingresos en pestañas separadas, sin signo), la vista previa aparece sola al pegar y puedes pegar capturas con un botón. Nueva categoría «Ingresos», y el importador entiende muchos más formatos (una línea por movimiento, tablas de Excel o CSV, fechas e importes de todo tipo).",
+ "zip": "mis-gastos-app-1.3.1.zip",
+ "sha256": "af0c84d8adadec8b5cd88e3170421d97d1a06ce549052b0010d5f5e4a26ba7b2"
 }
